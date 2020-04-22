@@ -1,3 +1,5 @@
+package ru.sogaz;
+
 public class MyFirstProgram {
 
 public static void main(String[] args) {
