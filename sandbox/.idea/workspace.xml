@@ -26,8 +26,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.sogaz" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -53,8 +59,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587592607979</updated>
-      <workItem from="1587592613176" duration="3000" />
+      <workItem from="1587592613176" duration="3318000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587592677744">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="424" y="205" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1587592677744" />
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom" timestamp="1587619266312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587619266312" />
+    <state width="1202" height="147" key="GridCell.Tab.0.center" timestamp="1587619266311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587619266311" />
+    <state width="1202" height="147" key="GridCell.Tab.0.left" timestamp="1587619266311">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587619266311" />
+    <state width="1202" height="147" key="GridCell.Tab.0.right" timestamp="1587619266312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587619266312" />
+    <state x="451" y="118" key="chooseDestDirectoryDialog" timestamp="1587592677654">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="451" y="118" key="chooseDestDirectoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1587592677654" />
   </component>
 </project>
